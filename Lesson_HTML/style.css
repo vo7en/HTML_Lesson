@@ -1,0 +1,91 @@
+th, td {
+   border: 2px solid black;
+}
+table{
+  border-collapse: collapse;
+
+}
+.hekst1{
+    background-color: #32849c ;
+    color: white;
+}
+.hekst2{
+    background-color: #798f3d;
+    color: white;
+}
+.hekst3{
+    background-color: #913834;
+    color: white;
+}
+.hekst4 {
+    background-color: #913834;
+    color: white;
+}
+.hekst5 {
+    background-color: #db9394;
+    color: black;
+}
+.hekst6 {
+    background-color: #e7b8b0;
+    color: black;
+}
+.hekst7 {
+    background-color: #b7dde8;
+    color: black;
+}
+.hekst8 {
+    background-color: #c2d69b;
+    color: black;
+}
+.hekst9 {
+    background-color: #ded9c3;
+    color: black;
+}
+.hekst10 {
+    background-color: #f8f3ef;
+
+}
+.hekst11 {
+ color: #b7d2cb;
+}
+.bistro{
+    font-family:'Pacifico', cursive;
+    text-align: center;
+    color: #808000;
+    font-size: 60px;
+}
+.adress{
+    text-align: center;
+    color: #848797;
+}
+.g{
+    text-align: center;
+    color: #848797;
+}
+.a{
+    color: #808000;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+.d{
+    text-align: center;
+}
+.fluew{
+    color: #9a6134;
+    font-size: 20px;
+    font-weight: 700;
+}
+.sdf{
+    color: #bbb9ba;
+}
+.by{
+    color: #ef7162;
+}
+.hj{
+    color: #b01705;
+}
+.f{
+    font-size: 16px;
+
+}
